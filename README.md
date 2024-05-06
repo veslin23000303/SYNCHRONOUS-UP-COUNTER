@@ -43,8 +43,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 **PROGRAM**
 
 /* 
-Developed by:N.NAVYA SREE
-RegisterNumber:212223040138
+Developed by:VESLIN ANISH A
+RegisterNumber:212223240175
 */
 ```
 module ex11(out,clk,rstn);
@@ -62,16 +62,19 @@ endmodule
 
 **RTL LOGIC UP COUNTER**
 
-![image](https://github.com/23004513/SYNCHRONOUS-UP-COUNTER/assets/138973069/b3c2ccf8-964d-4e0c-87e8-e8d6f27c98d9)
+![WhatsApp Image 2024-05-06 at 15 09 09_b80f849d](https://github.com/veslin23000303/SYNCHRONOUS-UP-COUNTER/assets/151148539/bc918da7-3832-4f1e-8470-01d87f14b9cc)
+
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![image](https://github.com/23004513/SYNCHRONOUS-UP-COUNTER/assets/138973069/9795a391-bbf6-414c-9730-9f4800b9657a)
+![WhatsApp Image 2024-05-06 at 15 08 51_219a5a14](https://github.com/veslin23000303/SYNCHRONOUS-UP-COUNTER/assets/151148539/219f4978-db22-4e6f-aae1-1214396a957a)
+
 
 
 **TRUTH TABLE**
 
-![image](https://github.com/23004513/SYNCHRONOUS-UP-COUNTER/assets/138973069/4e9833c6-9227-41ff-a5cd-b199a3413e77)
+![WhatsApp Image 2024-05-06 at 15 08 24_284102ab](https://github.com/veslin23000303/SYNCHRONOUS-UP-COUNTER/assets/151148539/905c1dbe-8e68-4dd7-a2cd-3ee2a9bf1fa6)
+
 
 **RESULTS**
 
